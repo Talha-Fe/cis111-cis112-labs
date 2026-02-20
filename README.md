@@ -1,3 +1,4 @@
-# Yayınlama tarihleri
+# HIMYM çok güzel bi dizi
 
-Her lab cevabı o haftanın pazar günü yayınlanmaktadır.
+Kendimce gereksiz veya aşırı kolay bulduğum labları yayınlamıyorum. Her haftanın son günü(pazar) lab cevaplarını yayınlıyorum.
+ 
